@@ -28,10 +28,10 @@
   var showcaseImage = document.getElementById('showcase-image');
   var showcaseButtons = document.querySelectorAll('.showcase-btn');
   var showcaseImages = [
-    '../images/usecase1.png',
-    '../images/usecase2.png',
-    '../images/product1.png',
-    '../images/product2.png.png'
+    'images/usecase1.png',
+    'images/usecase2.png',
+    'images/product1.png',
+    'images/product2.png.png'
   ];
 
   if (showcaseImage && showcaseButtons.length) {
@@ -53,3 +53,4 @@
     }, 4200);
   }
 })();
+
