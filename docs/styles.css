@@ -156,7 +156,6 @@ img { max-width: 100%; display: block; border-radius: 14px; }
 .section-lead { max-width: 760px; margin-bottom: 1.8rem; }
 .cards, .gallery, .spec-grid, .comparison { display: grid; gap: 1rem; }
 .three-up { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-.four-up { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .two-up { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 
 .card {
@@ -166,6 +165,9 @@ img { max-width: 100%; display: block; border-radius: 14px; }
   padding: 1.2rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   transition: transform 180ms ease, border-color 180ms ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .card:hover {
@@ -173,19 +175,7 @@ img { max-width: 100%; display: block; border-radius: 14px; }
   border-color: #4a6078;
 }
 
-.icon {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  display: grid;
-  place-items: center;
-  color: #a9c7ea;
-  border: 1px solid #3c5673;
-  background: #131d28;
-  margin-bottom: 0.65rem;
-}
-
-.icon i { font-size: 1.1rem; }
+.card p:last-child { margin-bottom: 0; }
 
 .contrast {
   background: linear-gradient(180deg, rgba(12, 16, 21, 0.8), rgba(15, 20, 26, 0.8));
@@ -212,6 +202,7 @@ img { max-width: 100%; display: block; border-radius: 14px; }
   grid-template-columns: auto 1fr auto;
   gap: 1rem;
   align-items: center;
+  margin-top: 0.35rem;
 }
 
 .showcase-frame {
@@ -287,13 +278,12 @@ details p { margin: 0.7rem 0 0; }
 
 @media (max-width: 1020px) {
   .hero-grid, .three-up, .two-up, .comparison, .spec-grid { grid-template-columns: 1fr 1fr; }
-  .four-up { grid-template-columns: 1fr 1fr; }
 }
 
 @media (max-width: 720px) {
   .section { padding: 3.5rem 0; }
   .hero { padding-top: 4rem; }
-  .hero-grid, .three-up, .two-up, .comparison, .spec-grid, .four-up { grid-template-columns: 1fr; }
+  .hero-grid, .three-up, .two-up, .comparison, .spec-grid { grid-template-columns: 1fr; }
   .showcase { grid-template-columns: 1fr; }
   .showcase-btn { width: 100%; border-radius: 999px; height: 38px; }
   .nav-wrap { min-height: 60px; }
