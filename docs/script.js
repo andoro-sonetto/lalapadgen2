@@ -28,6 +28,7 @@
   var showcaseImage = document.getElementById('showcase-image');
   var showcaseButtons = document.querySelectorAll('.showcase-btn');
   var showcaseImages = [
+    'images/product_0 - IMG_20260219_184850.jpg',
     'images/product_1 - IMG_20260213_150237.png',
     'images/product_2 - IMG_20260213_152422.png',
     'images/product_3 - IMG_20260213_152158.png',
