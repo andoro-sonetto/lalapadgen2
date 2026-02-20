@@ -116,7 +116,7 @@ LalaPadGen2はZMKファームウェアの搭載により、すべてのキー及
     
     - 参考：[ZMK Studio - ZMK Firmwear Docs](https://zmk.dev/docs/features/studio)
 
-### [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)を使用
+### [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)を使用（推奨）
 - Webブラウザ上で簡単に編集可能
 - ZMK Studioより詳細な設定が可能
 - ファームウェアをビルドする為にGitHubアカウントが必要です
