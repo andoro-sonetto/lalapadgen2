@@ -1,10 +1,12 @@
-<img width="800" height="220" alt="LalapadGen2_Logo_header1" src="https://github.com/user-attachments/assets/b0d0cf38-d226-4738-8059-3c829491f64d" />
+<img width="1280" height="352" alt="LalapadGen2_Logo_header1" src="https://github.com/user-attachments/assets/c0736d43-b615-40a7-9b13-bc01ab3b183a" />
+<img width="1280" height="932" alt="ProductImages_Github" src="https://github.com/user-attachments/assets/03032c68-08d1-45aa-835f-7e23d26831ce" />
 
 <BR/>  
   
 LaLaPad gen2 は、
-独自設計のダブルトラックパッド（IQS9151）を搭載した
-無線対応 40% 分割キーボードです。
+独自設計のダブルトラックパッドを搭載した
+ワイヤレス 40% 分割キーボードです。
+
 
 ## 特徴
 
