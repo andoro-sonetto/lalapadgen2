@@ -43,7 +43,7 @@ LaLaPad gen2 は、
 - 3Dモデルデータ
 - [転売品やサポートに関するガイドライン](https://github.com/ShiniNet/LalaPad/blob/main/doc/ResaleGuideline.md)
 
-## [キーボードの使い方・カスタマイズ](https://github.com/ShiniNet/LaLaPadGen2/blob/main/fuide/HowtoUse.md)
+## [キーボードの使い方・カスタマイズ](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/HowtoUse.md)
 
 ## よくある質問
 
