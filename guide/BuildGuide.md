@@ -22,7 +22,6 @@
 
 |パッキング | 内容 | 数量 | 単位 |
 | --- | --- | --: | --- |
-|-|カード|1|枚|
 |-|3DP製ケース|1|Set|
 |-|Socket|42|個|
 |-|スタンド|4|個|
@@ -36,7 +35,7 @@
 |ポチ袋②|5wayノブ|2|個|
 |ポチ袋②|SW＆RSTパーツ|2|Set|
 |ポチ袋②|ガスケットパーツ|2|Set|
-|ポチ袋②|ゴム足|4|個|
+|ポチ袋②|ゴム足|4|本|
 
 `[画像プレースホルダ: キット内容物の全体写真]`
 
@@ -49,7 +48,7 @@
 | 名前 | 数 | 備考 |参考商品|
 |:-|---:|:-|:-|
 |Seeed Studio XIAO nRF52840 Plus|2個|XIAO BLEの新バージョンです。9本の追加GPIOが使用でき、より高機能なデバイスに適しています。|[遊舎工房](https://shop.yushakobo.jp/products/10946) [beekeeb.jp](https://shop.beekeeb.jp/products/seeed-studio-xiao-nrf52840-plus) [千石電商](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-6TTL) [スイッチサイエンス](https://www.switch-science.com/products/10468)|
-|Kailh Choc V2互換スイッチ|42個|個人的に静音ではDeepSeaMiniがおすすめ。鳴らしつつ打鍵感の軽さを求める場合、COSMOXのShadow huntingをPBTキーキャップと組み合わせるとコリコリ感があって好みです。|[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/kailh-chocv2) [遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Amazon](https://www.amazon.co.jp/dp/B0DSSS4MYJ/) |
+|Kailh Choc V2互換スイッチ|42個|静音ではDeepSeaMiniがおすすめ。鳴らしつつ打鍵感の軽さを求める場合、COSMOXのShadow huntingをPBTキーキャップと組み合わせるとコリコリ感があって好みです。個人的な意見です。|[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/kailh-chocv2) [遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Amazon](https://www.amazon.co.jp/dp/B0DSSS4MYJ/) |
 |MX軸ロープロファイルキーキャップ|42個|入手性の高さ、バリエーションの豊富さからWomierのPBTキーキャップをおすすめしています。 ※19mmピッチ用且つ、サイズは1Uが38個、1.5Uが4個必要です。|[Womier](https://womierkeyboard.com/products/skyline-r2) [Amazon](https://www.amazon.co.jp/stores/page/90526727-85E5-4BF8-AAD2-FC8A78C07BE3/search?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto&terms=%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD)|
 |3.7Vリチウムポリマーバッテリー|2個|厚さ6.3mm幅47mm長さ110mm以下、JST PHコネクタ（ソケットのピッチ2.0mm）※[ソケットの極性に注意！](#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)|[Amazon](https://www.amazon.co.jp/dp/B09DRJS75J/) [PHコネクタ単品](https://www.amazon.co.jp/dp/B01MXGWMS5/) |
 |USB-Cケーブル|2本|充電、ファームウェア書き込み用。何百回と抜き差しする事になるのでマグネット式がおすすめ。||
@@ -59,20 +58,17 @@
 |---|:-|:-|:-|
 |必須|はんだごて|安心と信頼の白光(HAKKO)製、 はんだ付け入門キット。|[amazon](https://www.amazon.co.jp/dp/B0FX3L5485)|
 |必須|こて先（K型）|本ガイドではマイコンのはんだ付けにK型のこて先を推奨しています。安心と信頼の白光(HAKKO)製。|[amazon](https://www.amazon.co.jp/dp/B004ORB8MY/)|
-|必須|フラックス|端子へのはんだが吸着しやすくなります。マイコン等シビアなはんだ作業では必須。|[amazon](https://www.amazon.co.jp/dp/B002H3NKL4/)|
-|大|フラックスクリーナー|フラックスで基板がべとべとになるので掃除用。無水エタノールやIPA等で代用可能。|[amazon](https://www.amazon.co.jp/dp/B00I4DQFIQ/)|
-|中|キムワイプ|フラックスクリーナーと組み合わせて基盤清掃に使用。要らない歯ブラシ等で清掃するのもアリ。キッチンペーパーやティッシュは繊維が残るので絶対に使用してはいけません。|[amazon](https://www.amazon.co.jp/dp/B001EHI9XI/)|
-|必須|はんだ線|極細（0.8mm以下）鉛入り低融点（200度未満）で入手性の高い物を選択。|[amazon](https://www.amazon.co.jp/dp/B0DQ54YDF4/)|
+|必須|フラックス|端子へのはんだが吸着しやすくなります。マイコン等シビアなはんだ作業では必須。注射器型。無洗浄タイプ。|[amazon](https://www.amazon.co.jp/dp/B078XSQF5T/)|
+|必須|はんだ線|精密プリント基板用、極細（0.8mm以下）鉛入り低融点（200度未満）で入手性の高い物を選択。|[amazon](https://www.amazon.co.jp/dp/B0DQ54YDF4/)|
 |大|はんだ吸い取り線|ミスしたはんだを吸い取ります。セットに付いてなかったら購入必須。<BR>はんだ済み端子はフラックスが蒸発しているので、フラックスと組み合わせて使用。|[amazon](https://www.amazon.co.jp/dp/B0DWM8W136/)|
 |必須|ピンセット|はんだ中のパーツ固定用。||
 |中|ニッパー|基板の分離用。||
 |中|やすり|基板のばり取り用。ピンセットやニッパーの縁で削っても良い。||
 |中|マスキングテープ|バッテリーの固定、はんだ中にパーツを仮止めする用。||
+|中|瞬間接着剤|圧入したマグネットが取れてしまう場合の固定用。||
 |中|テスター|電源投入前に配線のショートをチェックできるので怖さが減ります。またトラブル発生時にサポートのやりとりするために必須となっています。|[amazon](https://www.amazon.co.jp/dp/B0BLZ7GN2X)|
 |中|ミニホットプレート|トラブル時にマイコンを取り外すために必須です。PD65W以上に対応したUSB-C充電器とケーブルが必要です。ヒートガンでも代用可能。|[amazon](https://www.amazon.co.jp/dp/B0DGFFP4CG/)|
-|代替品|はんだごて|中級者向け。安価で高出力高機能なはんだごてを使ってみたい場合、FNIRSI社製のスマートはんだごてもオススメ。バリエーションHS-02B-Kは最初からK型のこて先付き。PD100W以上対応のUSB充電器とケーブルが必要です。|[アリエク](https://ja.aliexpress.com/item/1005008870209545.html)|
-
-- `TODO: 道具ごとに必須レベルを追記`
+|代替品|はんだごて|中級者向け。安価で高出力高機能なはんだごてを使ってみたい場合、FNIRSI社製のスマートはんだごてもオススメ。バリエーションHS-02B-Kは最初からK型のこて先付き。PD100W以上対応のUSB-C充電器とケーブルが必要です。|[アリエク](https://ja.aliexpress.com/item/1005008870209545.html)|
 
 > [!WARNING]
 > - 参考商品は全てアフィリエイトの含まれない直リンクです
