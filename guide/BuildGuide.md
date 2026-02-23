@@ -10,7 +10,7 @@
 
 ### 作業全体の目安
 - 想定作業時間: 60～180分 
-- 難易度：キット全体の難易度としては中程度。マイコン取付の難易度が高く、フラックスや状態の良いこて先など、正しく道具を揃える必要があります。
+- 難易度：キット全体の難易度としては中程度。マイコン取付の難易度が高く、フラックスやはんだ吸い取り線、状態の良いこて先など、正しく道具を揃える必要があります。
   - ソケット取付★☆☆☆☆
   - 5Way取付★☆☆☆☆
   - マイコン取付★★★★★
@@ -53,14 +53,14 @@
 |Seeed Studio XIAO nRF52840 Plus|2個|マイコン本体。XIAO BLEの新バージョンです。9本の追加GPIOが使用でき、より高機能なデバイスに適しています。|[遊舎工房](https://shop.yushakobo.jp/products/10946) [beekeeb.jp](https://shop.beekeeb.jp/products/seeed-studio-xiao-nrf52840-plus) [千石電商](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-6TTL) [スイッチサイエンス](https://www.switch-science.com/products/10468)|
 |Kailh Choc V2互換スイッチ|42個|静音ではDeepSeaMiniがおすすめ。鳴らしつつ打鍵感の軽さを求める場合、COSMOXのShadow huntingをPBTキーキャップと組み合わせるとコリコリ感があって好みです。個人的な意見です。|[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/kailh-chocv2) [遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Amazon](https://www.amazon.co.jp/dp/B0DSSS4MYJ/) |
 |MX軸ロープロファイルキーキャップ|42個|入手性の高さ、バリエーションの豊富さからWomierのPBTキーキャップをおすすめしています。 ※19mmピッチ用且つ、サイズは1Uが38個、1.5Uが4個必要です。|[Womier](https://womierkeyboard.com/products/skyline-r2) [Amazon](https://www.amazon.co.jp/stores/page/90526727-85E5-4BF8-AAD2-FC8A78C07BE3/search?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto&terms=%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD)|
-|3.7Vリチウムポリマーバッテリー|2個|厚さ6.3mm幅47mm長さ110mm以下、JST PHコネクタ（ソケットのピッチ2.0mm）※[ソケットの極性に注意！](#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)|[Amazon](https://www.amazon.co.jp/dp/B09DRJS75J/) [PHコネクタ単品](https://www.amazon.co.jp/dp/B01MXGWMS5/) |
+|3.7Vリチウムポリマーバッテリー|2個|603048型（厚さ6.3mm幅47mm長さ110mm以下）、JST PHコネクタ（ソケットのピッチ2.0mm）※[ソケットの極性に注意！](#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)|[Amazon](https://www.amazon.co.jp/dp/B09DRJS75J/) [PHコネクタ単品](https://www.amazon.co.jp/dp/B01MXGWMS5/) |
 |USB-Cケーブル|2本|充電、ファームウェア書き込み用。何百回と抜き差しする事になるのでマグネット式がおすすめ。||
 
 ### 道具類
 |優先度| 名前 | 備考 |参考商品|
 |---|:-|:-|:-|
 |必須|はんだごて|安心と信頼の白光(HAKKO)製、 はんだ付け入門キット。|[amazon](https://www.amazon.co.jp/dp/B0FX3L5485)|
-|必須|こて先（K型）|本ガイドではマイコンのはんだ付けにK型のこて先を推奨しています。安心と信頼の白光(HAKKO)製。|[amazon](https://www.amazon.co.jp/dp/B004ORB8MY/)|
+|必須|こて先（K型）|本ビルドガイドではマイコンのはんだ付けにK型のこて先を推奨しています。安心と信頼の白光(HAKKO)製。|[amazon](https://www.amazon.co.jp/dp/B004ORB8MY/)|
 |必須|フラックス|端子へのはんだが吸着しやすくなります。マイコン等シビアなはんだ作業では必須。注射器型。無洗浄タイプ。|[amazon](https://www.amazon.co.jp/dp/B078XSQF5T/)|
 |必須|はんだ線|精密プリント基板用、極細（0.8mm以下）鉛入り低融点（200度未満）で入手性の高い物を選択。|[amazon](https://www.amazon.co.jp/dp/B0DQ54YDF4/)|
 |大|はんだ吸い取り線|ミスしたはんだを吸い取ります。セットに付いてなかったら購入必須。<BR>はんだ済み端子はフラックスが蒸発しているので、フラックスと組み合わせて使用。|[amazon](https://www.amazon.co.jp/dp/B0DWM8W136/)|
@@ -71,7 +71,7 @@
 |中|マスキングテープ|バッテリーの固定、はんだ中にパーツを仮止めする用。||
 |中|瞬間接着剤|圧入したマグネットが取れてしまう場合の固定用。||
 |中|テスター|電源投入前に配線のショートをチェックできるので怖さが減ります。またトラブル発生時にサポートのやりとりするために必須となっています。|[amazon](https://www.amazon.co.jp/dp/B0BLZ7GN2X)|
-|中|ミニホットプレート|トラブル時にマイコンを取り外すために必須です。本プロジェクトでは200℃出せる物で十分です。PD65W以上に対応したUSB-C充電器とケーブルが必要です。ヒートガンでも代用可能。|[amazon](https://www.amazon.co.jp/dp/B0DGFFP4CG/)|
+|中|ミニホットプレート|トラブル時にマイコンを取り外すために必須です。本ビルドガイドでは200℃出せる物で十分です。PD65W以上に対応したUSB-C充電器とケーブルが必要です。ヒートガンでも代用可能。|[amazon](https://www.amazon.co.jp/dp/B0DGFFP4CG/)|
 |代替品|はんだごて|中級者向け。安価で高出力高機能なはんだごてを使ってみたい場合、FNIRSI社製のスマートはんだごてもオススメ。バリエーションHS-02B-Kは最初からK型のこて先付き。PD100W以上対応のUSB-C充電器とケーブルが必要です。|[アリエク](https://ja.aliexpress.com/item/1005008870209545.html)|
 
 > [!WARNING]
@@ -135,10 +135,11 @@
 
 
 ### マイコンの実装
-- PCBの表面からマイコンに同梱されていたピンヘッダを差し込み、その反対側からマイコンを差し込んで固定します。
+- PCBの表面からマイコンに同梱されていたピンヘッダを差し込み、その反対側からマイコンを差し込んで仮で固定します。
 
 > [!WARNING]
 > - マイコンはPCBの裏面に固定してください。ソケットやIC類が実装されている面です。
+> - ピンヘッダーをはんだ付けしないでください。あとで取り外します。
 
 <img width="2343" height="1081" alt="2026-02-22_19h11_49" src="https://github.com/user-attachments/assets/e51c00bd-5f3e-4c65-b89a-11d11e81e2f0" /><BR/> 
   
@@ -164,24 +165,33 @@
 - マイコン背面端子をはんだづけします（4ピン）
 
 > [!TIP]
-> - 端子にフラックスを塗布し、K型の小手先で加熱しながらはんだを流し込んでいきます。
+> - 端子にフラックスを塗布し、小手先で加熱しながらはんだを流し込んでいきます。
 > - マイコンのバッテリ端子の露出が極狭（画像2枚目）なので、K型こて先の先端を上手く使ってマイコン背面端子とPCBの端面スルーホールを加熱してください。
 > - こて先が酸化していると上手く熱が伝わらず、はんだが吸着しないのでこて先をよくクリーニングしてください。
 > - 大量のフラックスとはんだを流し込み、わざとブリッジさせてからはんだ吸い取り線で余分なはんだを除去する手法も有効です。
 
-<img width="1665" height="768" alt="2026-02-22_20h00_16" src="https://github.com/user-attachments/assets/43663235-e21a-4c00-b2c1-ded590d175db" />
+<img width="1665" height="768" alt="2026-02-22_20h00_16" src="https://github.com/user-attachments/assets/43663235-e21a-4c00-b2c1-ded590d175db" /><BR/> 
 
 
-### その他電子部品の実装
-- `TODO: 5wayスイッチの実装手順`
+### 5Wayスイッチの実装
+- 5wayスイッチをPCBの表面（マイコンとは反対側）に配置し、6本の足をはんだづけします。
 
-`[画像プレースホルダ: 電子部品実装済み状態]`
+> [!TIP]
+> - 5Wayスイッチの裏面に突起があるので、それがPCB側の穴にはまるように位置合わせをしてください。
+> - 5Wayスイッチの足とPCBのランド両方をこて先で加熱することを意識してはんだづけしてください。足だけ加熱するとランドにはんだが吸着しないことが多いです。
+
+![IMG_20260212_183225](https://github.com/user-attachments/assets/4ac60ab3-6409-4ee7-9eab-af4d3cfaac61)<BR/> 
+
 
 ### トラックパッドモジュールの組み立て
-- `TODO: トラックパッドの固定手順`
-- `TODO: ケーブル取り回し`
+- 向きに注意しながら、トラックパッドケースにトラックパッドPCBを挿入します。
 
-`[画像プレースホルダ: トラックパッド装着状態]`
+> [!WARNING]
+> - トラックパッドPCB側面のバリ取りが完了していることを事前に確認してください。バリが残っているとケース内でPCBが浮いてしまい、センサーとケースの間に空間ができることで誤動作の原因になります。
+> - ケースの突起がある方を目印に、トラックパッドPCBの向きに注意して挿入してください。
+
+<img width="1025" height="891" alt="2026-02-23_16h18_00" src="https://github.com/user-attachments/assets/36512ba2-b328-448b-9684-c9a215a3a28e" /><BR/>
+
 
 ## ファームウェア書き込みと初期動作確認（USB）
 
