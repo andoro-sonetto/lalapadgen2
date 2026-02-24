@@ -41,7 +41,7 @@ LaLapad gen2 は、
 
 - 頒布ページ
 - [ビルドガイド](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md)
-- ファームウェア
+- [ファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2)
 - 3Dモデルデータ
 - [転売品やサポートに関するガイドライン](https://github.com/ShiniNet/LalaPad/blob/main/doc/ResaleGuideline.md)
 
