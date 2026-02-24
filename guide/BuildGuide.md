@@ -212,7 +212,7 @@
 - マイコン本体左上の小さなボタンと、PCB側のリセットボタンどちらを2連打してもブートローダーの起動が可能です。
   
 > [!TIP]
-> - 動作に問題がある場合、組立のトラブルシューティングを参考にしてください。
+> - 動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 ![IMG_20260212_192502](https://github.com/user-attachments/assets/9fa0479c-29bd-48cc-ae65-c62b75fd0497)<BR/>
 
@@ -231,7 +231,7 @@
 > - それでもLEDが点灯しない場合、マイコンのはんだ不良の可能性があります。
 
 > [!TIP]
-> - 動作に問題がある場合、組立のトラブルシューティングを参考にしてください。
+> - 動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 ![IMG_20260212_192622](https://github.com/user-attachments/assets/49b2845f-56d0-4509-8e56-36ffc3812f3c)<BR/>
 
@@ -252,7 +252,7 @@
 - [デフォルトキーマップ](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/HowtoUse.md#%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97)の設定を確認しながら、全ての物理キーが正しく判定されることを確認してください。
 
 > [!TIP]
-> - 動作に問題がある場合、組立のトラブルシューティングを参考にしてください。
+> - 動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 ![IMG_20260212_192655](https://github.com/user-attachments/assets/0156de79-8c68-4704-90a1-27c3de0d0883)<BR/>
 <img width="1332" height="673" alt="2026-02-23_20h30_45" src="https://github.com/user-attachments/assets/50d6e799-72bd-42f5-ae73-604537bfc321" /><BR/>
@@ -270,7 +270,7 @@
 
 > [!TIP]
 > - マイコン起動後にトラックパッドが動作しない場合、リセットボタンを1回押してマイコンを再起動してみてください。
-> - それでも動作に問題がある場合、組立のトラブルシューティングを参考にしてください。
+> - それでも動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 <img width="1026" height="1081" alt="2026-02-23_20h46_19" src="https://github.com/user-attachments/assets/f6fc979f-b789-481b-a9c8-b340592d98fd" /><BR/>
 
@@ -285,7 +285,7 @@
 > - バッテリーの極性に注意してください。ソケットに差し込む方向に対して右側が赤（プラス）になるバッテリーを使用してください。
 
 > [!TIP]
-> - 動作に問題がある場合、組立のトラブルシューティングを参考にしてください。
+> - 動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 ![IMG_20260212_193828](https://github.com/user-attachments/assets/f718810d-dcbf-451d-9033-94a99ac24a41)<BR/>
 
