@@ -80,6 +80,7 @@
 
 > [!TIP]
 > - 参考商品はすべてアフィリエイトを含まない直リンクです。
+> - 最近[XIAO PLUSのはんだづけを練習するためのキット](https://shop.talpkeyboard.com/products/xiao-plus-practice-board-xiaoplus)が発売されたようです。
 
 > [!WARNING]
 > - ユーザー調達部品（適合条件と責任分界）
