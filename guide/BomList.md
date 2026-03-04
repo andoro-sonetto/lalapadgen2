@@ -1,4 +1,4 @@
-﻿# LaLaPad Gen2 BOM（ユーザー調達・換装向け）
+﻿# BOMリスト（ユーザー調達・換装向け）
 
 
 > [!WARNING]
