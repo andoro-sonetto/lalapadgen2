@@ -135,6 +135,8 @@
 > [!WARNING]
 > - 特にトラックパッドは削りが足りないと、後述のカバーにはまらなくなる可能性があるので事前に処理してください。目安としては、角丸部分も含め、トラックパッド基盤にある周囲の線までを削り切ってください。
 
+<img width="766" height="442" alt="image" src="https://github.com/user-attachments/assets/6904f719-18f1-46c9-b3da-fbbde0a70d74" />
+
 
 ### ソケットの実装
 
