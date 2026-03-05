@@ -131,7 +131,8 @@ LaLaPadGen2はZMKファームウェアを搭載しており、すべてのキー
 ### ファームウェアを直接カスタマイズ
 - ZMKのすべての機能を利用できます
 - キーボードのプロパティを変更できます（トラックパッドの細かい挙動やスリープ時間の閾値調整等）
-- Githubの基本的な知識が必要です
+- ファームウェアをビルドするためにGitHubアカウントが必要です
+- [LalapadGen2のファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2)を自分用のコピーとしてフォークする必要があります。
     
     - [LaLaPadGen2で設定可能なコンフィグ一覧](./ConfigList.md)
  
